@@ -12,7 +12,6 @@ import org.springframework.context.annotation.ComponentScan;
 //	public static void main(String[] args) {
 //		SpringApplication.run(AppRunner.class, args);
 //	}
-//
 //}
 
 //inicializdor para SpringBoot microperfil
