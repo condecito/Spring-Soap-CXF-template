@@ -16,9 +16,6 @@ import org.springframework.context.annotation.ComponentScan;
 //}
 
 //inicializdor para SpringBoot microperfil
-
-//@EnableAutoConfiguration
-//@ComponentScan(basePackages = {"com.basa.service"})
 public class AppRunner  {
 
 	public static void main(String[] args) {
